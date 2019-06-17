@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-gomang/master/docs/img/go.png)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/LTWA/master/docs/img/LTWA.jpg)
 
 <br>
 <br>
