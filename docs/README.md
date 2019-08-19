@@ -1,10 +1,10 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/ླླLTWA/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/ླླLTWA/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/ླླLTWA/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/LTWA/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/LTWA/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/LTWA/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/LTWA/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/LTWA/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/LTWA/natsok">སྣ་ཚོགས།</a></p>
 
 
 # བོད་ཀྱི་དཔེ་མཛོད་ཁང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/ླླLTWA/master/docs/img/01.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/LTWA/master/docs/img/01.jpg)
 
 <br>
 <br>

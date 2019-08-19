@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/ླླLTWA/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/ླླLTWA/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/ླླLTWA/tantra">སྔགས་ཀྱི་སྐོར།</a> • <span>སྣ་ཚོགས།</span></p>
+  <a href="https://bdrc-reader.github.io/LTWA/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/LTWA/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/LTWA/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/LTWA/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/LTWA/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/LTWA/tantra">སྔགས་ཀྱི་སྐོར།</a> • <span>སྣ་ཚོགས།</span></p>
 
 
 # བོད་ཀྱི་དཔེ་མཛོད་ཁང་དང་འབྲེལ་བའི་གཞུང་ལུགས་སྣ་ཚོགས་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
